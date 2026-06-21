@@ -9,7 +9,7 @@ Both technologies were introduced in 4G with 3GPP rel. 13 and belong to the
 LPWAN (*Long Range Wide Area Network*) family of protocols. These protocols are
 designed to consume little power and have a long range. Very important is that
 both of these cellular protocols are also available in 5G which ensures that
-Walter is going to be able to connect when providers switch of their 4G
+Walter is going to be able to connect when providers switch off their 4G
 infrastructure.
 
 Many 'consumer' SIM cards do not offer access to these cellular IoT networks and
