@@ -235,7 +235,7 @@ a format specific to the packet length.
 | `30`    | Satellite Count      | uint8      |                    |
 | `31-34` | Latitude             | float32 LE |                    |
 | `35-38` | Longitude            | float32 LE |                    |
-| `39-42` | Water Tubidity       | float32 LE |                    |
+| `39-42` | Water Turbidity       | float32 LE |                    |
 | `43-46` | Water Conductivity   | float32 LE |                    |
 | `47-50` | Oxygen Concentration | float32 LE |                    |
 | `51-54` | Oxygen Saturation    | float32 LE |                    |
