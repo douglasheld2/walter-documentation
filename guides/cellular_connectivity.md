@@ -45,7 +45,7 @@ be interesting for your business case. People have reported success with the
 following SIM card providers:
 
 - [1NCE](https://1nce.com/): known for their 10EUR/10Years cards
-- [Vodaphone](https://www.vodafone.com/business/products/iot-connectivity):
+- [Vodafone](https://www.vodafone.com/business/products/iot-connectivity):
   an MNO with a global presence
 - [SIM control](https://simcontrol.co.za/): NB-IoT in South Africa
 - [Telenet](https://www2.telenet.be/business/nl/sme-le/aanbod/verbinden/bedrijfsnetwerk/internet-of-things.html):
